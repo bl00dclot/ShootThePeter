@@ -143,3 +143,16 @@ Recommended Development Sequence:
 6. Add UI and audio
 7. Optimize and polish
 8. Extensive testing
+
+
+
+### Development Commands
+- `npm start`: Start development server
+- `npm run build`: Create production build
+- `npm run dev`: Run development build
+
+### Recommended VS Code Extensions
+- ESLint
+- Debugger for Chrome
+- Live Server
+- Path Intellisense
